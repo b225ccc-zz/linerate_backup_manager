@@ -1,0 +1,30 @@
+{
+  "name": "linerate_backup_manager",
+  "version": "0.0.1",
+  "description": "LineRate Backup Manager",
+  "author": "Brian Talley <talley@f5.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b225ccc/linerate_backup_manager.git"
+  },
+  "keywords": [
+    "linerate",
+    "node",
+    "node.js",
+    "load balancer",
+    "reverse proxy",
+    "http",
+    "f5",
+    "point",
+    "precision"
+  ],
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.2.1",
+    "linerate_node_rest_api_module": "0.0.3",
+    "moment": "^2.10.3"
+  },
+  "devDependencies": {}
+}
