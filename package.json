@@ -17,7 +17,8 @@
     "http",
     "f5",
     "point",
-    "precision"
+    "precision",
+    "backup"
   ],
   "private": true,
   "license": "MIT",

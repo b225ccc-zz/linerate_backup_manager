@@ -1,0 +1,20 @@
+{
+  "hosts": [
+    {
+      "host": "172.16.87.157",
+      "port": "8443",
+      "username": "admin",
+      "password": "changeme",
+    },
+    {
+      "host": "172.16.87.196",
+      "port": "8443",
+      "username": "admin",
+      "password": "changeme",
+      "destination": "scp://user:pass@host:/backups/"
+    }
+  ],
+  "backup": {
+    "concurrency": 0
+  }
+}
