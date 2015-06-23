@@ -1,5 +1,7 @@
 # LineRate Backup Manager
 
+A parallel backup manager for LineRate systems written in Node.js
+
 ### Install
 ```
 git clone https://github.com/b225ccc/linerate_backup_manager.git
